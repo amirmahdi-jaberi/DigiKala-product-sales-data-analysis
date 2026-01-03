@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 تحلیل داده‌های فروش دیجی‌کالا — سری‌زمانی + تحلیل RFM مشتریان
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
@@ -71,3 +72,6 @@ pip install -r requirements.txt
 # یا دستی:
 pip install pandas numpy matplotlib seaborn jupyter
 
+=======
+# Digital-product-sales-data-analysis
+>>>>>>> 2b63704 (Initial commit)
