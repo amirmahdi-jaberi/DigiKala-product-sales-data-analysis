@@ -57,9 +57,6 @@ DGKala_data_analysis/
 | داشبورد تعاملی | `Power BI` |
 
 ---
-.
-
----
 
 ## ▶️ نحوه اجرا
 
@@ -69,6 +66,4 @@ pip install -r requirements.txt
 # یا دستی:
 pip install pandas numpy matplotlib seaborn jupyter
 
-=======
-# Digital-product-sales-data-analysis
->>>>>>> 2b63704 (Initial commit)
+
