@@ -15,19 +15,21 @@
 
 ## 📁 ساختار پروژه
 
+```
 DGKala_data_analysis/
 ├── data/
-│ ├── raw/
-│ │ └── digikala_sales.csv # داده اصلی (از منبع farshadnp/DigiKalaDataSet)
-│ └── processed/
-│ ├── cleaned_sales_data.csv # داده پاک‌سازی‌شده
-│ └── rfm_customers.csv # داده RFM (شامل r_score, f_score, m_score, segment)
+│   ├── raw/
+│   │   └── digikala_sales.csv
+│   └── processed/
+│       ├── cleaned_sales_data.csv
+│       └── rfm_customers.csv
 ├── notebooks/
-│ ├── data_preprocessing.ipynb # خواندن، پاک‌سازی و آماده‌سازی داده
-│ └── rfm_analysis.ipynb # محاسبه RFM و تقسیم‌بندی مشتریان
+│   ├── data_preprocessing.ipynb
+│   └── rfm_analysis.ipynb
 ├── dashboard/
-│ └── RFM_Dashboard.pbix # داشبورد تعاملی در Power BI
+│   └── RFM_Dashboard.pbix
 └── README.md
+```
 
 
 ---
