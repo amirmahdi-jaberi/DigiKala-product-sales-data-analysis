@@ -15,11 +15,11 @@
 
 ## 📁 ساختار پروژه
 
-.DGKala_data_analysis/
-.├── data/
-.│ ├── raw/
-.│ │ └── digikala_sales.csv # داده اصلی (از منبع farshadnp/DigiKalaDataSet)
-.│ └── processed/
+DGKala_data_analysis/
+├── data/
+│ ├── raw/
+│ │ └── digikala_sales.csv # داده اصلی (از منبع farshadnp/DigiKalaDataSet)
+│ └── processed/
 │ ├── cleaned_sales_data.csv # داده پاک‌سازی‌شده
 │ └── rfm_customers.csv # داده RFM (شامل r_score, f_score, m_score, segment)
 ├── notebooks/
