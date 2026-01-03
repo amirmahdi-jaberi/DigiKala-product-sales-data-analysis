@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# 📊 تحلیل داده‌های فروش دیجی‌کالا — سری‌زمانی + تحلیل RFM مشتریان
 
+# 📊 تحلیل داده‌های فروش دیجی‌کالا — سری‌زمانی + تحلیل RFM مشتریان
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![pandas](https://img.shields.io/badge/pandas-2.0%2B-1572B6?logo=pandas)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white)
@@ -19,16 +18,14 @@
 ```
 DGKala_data_analysis/
 ├── data/
-│   ├── raw/
-│   │   └── digikala_sales.csv
-│   └── processed/
-│       ├── cleaned_sales_data.csv
-│       └── rfm_customers.csv
+│       └── order.csv
 ├── notebooks/
-│   ├── data_preprocessing.ipynb
+│   ├── analysis.ipynb
 │   └── rfm_analysis.ipynb
-├── dashboard/
-│   └── RFM_Dashboard.pbix
+├── output/
+│   └── cleaned_data.csv
+│   └── data_rfm.csv
+│   └── digikala.pbix
 └── README.md
 ```
 
